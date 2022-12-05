@@ -1,0 +1,1 @@
+Ez az alap Readme 
